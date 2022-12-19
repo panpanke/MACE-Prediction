@@ -6,7 +6,7 @@
 
 
 
-![image-20221218232400411](MACE Prediction Software\softwareImage\software_interface.png)
+![image-20221218232400411](MACE%20Prediction%20Software/softwareImage/software_interface.png)
 
 
 
